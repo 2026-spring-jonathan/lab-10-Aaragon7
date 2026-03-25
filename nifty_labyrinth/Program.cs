@@ -9,7 +9,7 @@ using labyrinth;
 string YOUR_NAME = "Daniel";
 
 /* Change these constants to contain the paths out of your mazes. */
-string PATH_OUT_OF_MAZE = "WNWSSSNNNEEESSWWSNEESW";
+string PATH_OUT_OF_MAZE = "SESWSNENENWEESSS";
 string PATH_OUT_OF_TWISTY_MAZE = "SSEENNEWE";
 
 MazeCell startLocation = MazeUtilities.mazeFor(YOUR_NAME);
