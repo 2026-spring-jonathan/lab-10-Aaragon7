@@ -10,7 +10,7 @@ string YOUR_NAME = "Daniel";
 
 /* Change these constants to contain the paths out of your mazes. */
 string PATH_OUT_OF_MAZE = "SESWSNENENWEESSS";
-string PATH_OUT_OF_TWISTY_MAZE = "SSEENNEWE";
+string PATH_OUT_OF_TWISTY_MAZE = "WSNESWNWENNENS";
 
 MazeCell startLocation = MazeUtilities.mazeFor(YOUR_NAME);
 
